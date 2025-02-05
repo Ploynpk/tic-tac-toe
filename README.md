@@ -1,4 +1,4 @@
-# Tic-Tac-Toe <img src="public/favicon.ico" width="50">
+# Tic-Tac-Toe <img src="public/favicon.ico" width="30">
 
 
  🎮 A simple Tic-Tac-Toe game built with React.
