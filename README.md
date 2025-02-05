@@ -1,6 +1,7 @@
-# Tic-Tac-Toe 🎮<img src="public/favicon.ico" width="100" style="border-radius: 50%;">
+# Tic-Tac-Toe <img src="public/favicon.ico" width="100" style="border-radius: 50%;">
 
-A simple Tic-Tac-Toe game built with React.
+
+ 🎮 A simple Tic-Tac-Toe game built with React.
 
 ![Tic-Tac-Toe Demo](public/gamepage.gif)
 
