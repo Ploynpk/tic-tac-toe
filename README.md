@@ -1,3 +1,4 @@
+<img src="public/gamepage.gif" width="200">
 # Tic-Tac-Toe 🎮
 
 A simple Tic-Tac-Toe game built with React.
