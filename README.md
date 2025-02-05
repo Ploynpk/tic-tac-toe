@@ -1,5 +1,6 @@
 # Welcome to Tic-Tac-Toe Board Game
 
+![Tic-Tac-Toe Demo](public/gamepage.gif)
 
 
 ### `npm start` 
