@@ -1,11 +1,30 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe 🎮
+
+A simple Tic-Tac-Toe game built with React.
 
 ![Tic-Tac-Toe Demo](public/gamepage.gif)
 
-``
-npm start
+## 🚀 Getting Started
 
-``
+### Installation
+1. Clone the repository:
+    ```sh
+   git clone https://github.com/Ploynpk/tic-tac-toe.git
+    ```
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Navigate to the project directory:
 
+    ```sh
+    cd tic-tac-toe
+    ```
+
+3. Install dependencies:
+
+    ```sh
+    npm install
+    ```
+
+4. Start the development server:
+    ```sh
+    npm start
+    ```
