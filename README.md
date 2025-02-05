@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-To start the game run in the command line
+![Tic-Tac-Toe Demo](public/gamepage.gif)
 
 ``
 npm start
